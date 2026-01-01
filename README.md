@@ -2,7 +2,7 @@
 
 I'm an **aspiring developer from India 🇮🇳**, passionate about building web applications and learning new technologies. 
 
-I hold a **Bachelor’s degree in B.Tech (Computer Science & Engineering)** and I’m currently a **fresher**, eager to start my professional journey in software development.
+I am pursuing my **Bachelor’s degree in B.Tech (Computer Science & Engineering)** and I’m currently a **fresher**, eager to start my professional journey in software development.
 
 ---
 
